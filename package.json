@@ -24,17 +24,10 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.6",
     "morgan": "^1.10.0",
-    "multer": "^1.4.2",
-    "react-helmet": "^6.1.0",
-    "react-paypal-button-v2": "^2.6.3",
-    "react-redux": "^7.2.3",
-    "react-scripts": "^4.0.3"
+    "multer": "^1.4.2"
   },
   "devDependencies": {
     "concurrently": "^5.3.0",
     "nodemon": "^2.0.4"
-  }, 
-  "engines": {
-    "node": "14.16.0"
   }
 }
